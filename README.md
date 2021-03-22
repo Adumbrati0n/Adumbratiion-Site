@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## $whoami
 
-You can use the [editor on GitHub](https://github.com/Adumbrati0n/Adumbratiion-Site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aspiring Malware Analyst, Reverse Engineer and Penetration Tester. Currently a Cybersecurity and Business Student at University.
 
 ### Markdown
 
