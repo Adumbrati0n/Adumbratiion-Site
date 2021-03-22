@@ -2,11 +2,13 @@
 
 Aspiring Malware Analyst, Reverse Engineer and Penetration Tester. Currently a Cybersecurity and Business Student at University.
 
-### ls
+### Blog
 
 Blogposts Below:
 
-
+### ls -a
+[GitHub] - (https://github.com/Adumbrati0n) 
+[LinkedIn] - (https://linkedin.com)
 
 ### Donation
 
