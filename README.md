@@ -4,7 +4,7 @@ Aspiring Malware Analyst and Reverse Engineer. Currently a Cybersecurity and Bus
 
 ## $echo "content" >> Blog.txt
 * [GrapheneOS, My Impressions and How to use it](https://telegra.ph)
-* [The SYO-501 Journey and how i studied for it](https://telgra.ph)
+* [The SYO-501 Journey and how i studied for it](https://telegra.ph/The-SYO-501-Journey-and-how-i-studied-for-it-03-23)
 
 ## $ls 
 * [Twitter](https://twitter.com/Adumbrati)
