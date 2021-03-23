@@ -2,3 +2,4 @@ theme: jekyll-theme-hacker
 title: Adumbration
 Description: Cyber Domain of Adumbration
 show_downloads: false
+is_project_page: false
