@@ -2,5 +2,3 @@ theme: jekyll-theme-hacker
 title: Adumbration
 Description: Cyberspace of Adumbration
 show_downloads: false
-github:
-  is_project_page: false
