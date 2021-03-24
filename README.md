@@ -3,7 +3,7 @@
 Aspiring Malware Analyst and Reverse Engineer. Currently a Cybersecurity and Business Student at University.
 
 ## $echo "content" >> Blog.txt
-* [GrapheneOS, My Impressions and How to use it](https://telegra.ph/GrapheneOS---What-is-it-03-24)
+* [GrapheneOS - What is it?](https://telegra.ph/GrapheneOS---What-is-it-03-24)
 * [The SYO-501 Journey and how i studied for it](https://telegra.ph/The-SYO-501-Journey-and-how-i-studied-for-it-03-23)
 
 ## $ls 
