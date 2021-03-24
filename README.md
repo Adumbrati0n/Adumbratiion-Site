@@ -7,7 +7,6 @@ Aspiring Malware Analyst and Reverse Engineer. Currently a Cybersecurity and Bus
 * [The SYO-501 Journey and how i studied for it](https://telegra.ph/The-SYO-501-Journey-and-how-i-studied-for-it-03-23)
 
 ## $ls 
-* [Twitter](https://twitter.com/Adumbrati)
 * [GitHub](https://github.com/Adumbrati0n)
 * [Linkedin](https://linked.in) 
 
