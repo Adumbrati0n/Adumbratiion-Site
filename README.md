@@ -8,7 +8,7 @@ Aspiring Malware Analyst and Reverse Engineer. Currently a Cybersecurity and Bus
 
 ## $ls 
 * [GitHub](https://github.com/Adumbrati0n)
-* [Linkedin](https://linked.in) 
+* [Linkedin](https://www.linkedin.com/in/benjamin-l-03b4a0156/) 
 
 ## $wget -O contact.zip https://mirrors.adumbration.com/contact.zip
 
