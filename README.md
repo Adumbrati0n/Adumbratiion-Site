@@ -8,9 +8,8 @@ Aspiring Malware Analyst, Reverse Engineer and Threat Hunter. Currently a Cybers
 
 ## $ls 
 * [GitHub](https://github.com/Adumbrati0n)
-* [Twitter](Coming soon...)
-* [Linkedin](Coming soon...)
-* [Public Key](Coming soon...)
+* [Twitter] (TBA)
+* [Public Key] (TBA)
 
 ## $wget -O contact.zip https://mirrors.adumbration.com/contact.zip
 
