@@ -8,7 +8,7 @@ Aspiring Malware Analyst, Reverse Engineer and Threat Hunter. Cyber Enthusiast.
 ## $ls 
 * [GitHub](https://github.com/Adumbrati0n)
 * [Twitter](https://twitter.com/ADUMBRATION_)
-* [PGP](1374 e0a3 ac11 f676 dc97 3765 0284 0de7 a126 6bdd) 
+* [PGP](1374 e0a3 ac11 f676 dc97 3765 0284 0de7 a126 6bdd) | Download and Verify:(https://keys.openpgp.org/)
 
 ## $wget -O contact.zip https://mirrors.adumbration.com/contact.zip
 
