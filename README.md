@@ -8,12 +8,11 @@ Aspiring Malware Analyst, Reverse Engineer and Threat Hunter. Currently a Cybers
 
 ## $ls 
 * [GitHub](https://github.com/Adumbrati0n)
-* [Twitter] (TBA)
-* [Public Key] (TBA)
+* [Twitter](https://twitter.com/ADUMBRATION_)
 
 ## $wget -O contact.zip https://mirrors.adumbration.com/contact.zip
 
-For Business Inquiries or for any questions send an email to Adumbration[at]tutanota[dot]com 
+For Business Inquiries or for any questions send an email to Adumbration[at]tuta[dot]io 
 or message me on Briar: ab3gvvp3e3a7sp7wld7jw5jhztsn5de244mxnthuob5dq46mffaug
 
 ## Donation
