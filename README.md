@@ -1,7 +1,6 @@
 ## $whoami
 
-Aspiring Malware Analyst, Reverse Engineer and Threat Hunter. Currently a Cybersecurity and Business Student at University.
-
+Aspiring Malware Analyst, Reverse Engineer and Threat Hunter. Cyber Enthusiast.
 ## $cat Blog.txt
 * [GrapheneOS - What is it?](https://telegra.ph/GrapheneOS---What-is-it-03-24)
 * [The SYO-501 Journey and how i studied for it](https://telegra.ph/The-SYO-501-Journey-and-how-i-studied-for-it-03-23)
