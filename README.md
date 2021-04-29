@@ -11,7 +11,7 @@ Aspiring Malware Analyst, Reverse Engineer and Threat Hunter. Cyber Enthusiast.
 ## $ls 
 * [GitHub](https://github.com/Adumbrati0n)
 * [Twitter](https://twitter.com/ADUMBRATION_)
-* [Blog](https://adumbration-25713.medium.com/)
+* [Blog](https://adumbrati0n.medium.com/)
 * [PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/1374E0A3AC11F676DC97376502840DE7A1266BDD) 
 * PGP FINGERPRINT `1374 e0a3 ac11 f676 dc97 3765 0284 0de7 a126 6bdd`
 * EMAIL `Adumbration(at)tuta(dot)io`
