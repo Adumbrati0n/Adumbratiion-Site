@@ -24,7 +24,7 @@ Aspiring Malware Analyst, Reverse Engineer and Threat Hunter. Cyber Enthusiast.
 ## $wget -O contact.zip https://mirrors.adumbration.com/contact.zip
 
 For any questions send an email to Adumbration[at]tuta[dot]io 
-or message me on Element: @adumbration.matrix.org
+or message me on Matrix: @adumbration.matrix.org
 * * *
 
 ## Donation
