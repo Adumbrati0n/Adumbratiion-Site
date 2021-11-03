@@ -2,5 +2,3 @@ theme: jekyll-theme-hacker
 title: Adumbration
 Description: CyberSpace of Ben Lee
 show_downloads: false
-plugins:
-  - jekyll-seo-tag
