@@ -9,6 +9,7 @@ Aspiring Malware Analyst, Reverse Engineer and Threat Hunter. Cyber Enthusiast.
 * [How does a malicious attacker embed malware in a document - Basic Static Analysis of a Fin7 Spear Phishing Document](https://adumbrati0n.medium.com/how-does-a-malicious-attacker-embed-malware-in-a-document-and-fool-a-victim-to-infect-their-pc-f3dc58bdb288)
 * [Malware Analysis: Utntweep](https://adumbrati0n.medium.com/malware-analysis-utntweep-9075b13bf4cc)
 * [Malware Analysis: Jonap](https://adumbrati0n.medium.com/malware-analysis-jonap-806a31c0de72)
+* [Process Injection in Malware: DLL Injection](https://adumbrati0n.medium.com/process-injection-in-malware-6fbb1dfb6210)
 
 * * *
 
