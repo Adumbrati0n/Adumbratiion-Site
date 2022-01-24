@@ -11,6 +11,7 @@ Hi all, i am a final year cybersecurity and business student aspiring to be a cy
 * [Malware Analysis: Utntweep](https://adumbrati0n.medium.com/malware-analysis-utntweep-9075b13bf4cc)
 * [Malware Analysis: Jonap](https://adumbrati0n.medium.com/malware-analysis-jonap-806a31c0de72)
 * [Process Injection in Malware: DLL Injection](https://adumbrati0n.medium.com/process-injection-in-malware-6fbb1dfb6210)
+* [Malware Analysis Report: NotPetya](https://adumbrati0n.medium.com/malware-analysis-report-notpetya-c998b1c00d86)
 
 * * *
 
