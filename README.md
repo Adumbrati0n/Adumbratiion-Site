@@ -1,6 +1,7 @@
 ## $whoami
 
-Aspiring Malware Analyst, Reverse Engineer and Threat Hunter. Cyber Enthusiast.
+Hi all, i am a final year cybersecurity and business student aspiring to be a cybersecurity professional in the near future. I have a special interest in blueteaming and i like to reverse malware and learn digital forensics alongside threat intelligence in my own spare time. My Blog and links are accessible below. Thanks for coming!
+
 ## $cat Blog.txt
 * [GrapheneOS - What is it?](https://adumbration-25713.medium.com/grapheneos-what-is-it-1489ad6f4b6d)
 * [The SYO-501 Journey and how i studied for it](https://adumbration-25713.medium.com/the-syo-501-journey-and-how-i-studied-for-it-1aa2c65e2879)
