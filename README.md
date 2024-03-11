@@ -1,6 +1,6 @@
 ## $whoami
 
-Hi all, i am a final year cybersecurity and business student aspiring to be a cybersecurity professional in the near future. I have a special interest in blueteaming and i like to reverse malware and learn digital forensics alongside threat intelligence in my own spare time. My Blog and links are accessible below. Thanks for coming!
+Hi all, i am a recent cybersecurity and business graduate aspiring to be a cybersecurity professional in the near future. I have a special interest in blueteaming and i like to reverse malware and learn digital forensics alongside threat intelligence in my own spare time. My Blog and links are accessible below. Thanks for coming!
 
 ## $cat Blog.txt
 * [GrapheneOS - What is it?](https://adumbration-25713.medium.com/grapheneos-what-is-it-1489ad6f4b6d)
@@ -13,6 +13,7 @@ Hi all, i am a final year cybersecurity and business student aspiring to be a cy
 * [Process Injection in Malware: DLL Injection](https://adumbrati0n.medium.com/process-injection-in-malware-6fbb1dfb6210)
 * [Malware Analysis Report: NotPetya](https://adumbrati0n.medium.com/malware-analysis-report-notpetya-c998b1c00d86)
 * [Analyzing a .Net Sample: ziraat_limpi.exe](https://adumbrati0n.medium.com/analyzing-a-net-sample-ziraat-limpi-exe-4c11a4ae71ba)
+* [Malware Analysis IoT Case Study — Mirai/Echobot](https://adumbrati0n.medium.com/malware-analysis-iot-case-study-mirai-echobot-0e0ec4e255d8)
 
 * * *
 
